@@ -4,13 +4,6 @@
 
 Um projeto simples de um sistema de gerenciamento de tarefas desenvolvido em Python, utilizando a biblioteca `Tkinter` para a interface gráfica e `MySQL` como banco de dados. A aplicação permite o cadastro de usuários, criação de tarefas, associação de tarefas a usuários e o acompanhamento do status de cada tarefa (pendente ou concluída).
 
-## Screenshot
-
-É altamente recomendável adicionar um screenshot da aplicação para que os visitantes possam ver como ela é.
-
-![Screenshot da Aplicação](https://i.imgur.com/your-image-url.png)
-*(Substitua o link acima por um screenshot real da sua aplicação)*
-
 ## Funcionalidades
 
 O sistema é organizado em abas para facilitar a navegação e o uso:
