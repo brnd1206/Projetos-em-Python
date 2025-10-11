@@ -52,10 +52,6 @@ Antes de rodar o projeto, você precisa ter instalado:
 ## Como Instalar e Executar
 
 1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    cd seu-repositorio
-    ```
 
 2.  **Configure a Conexão com o Banco de Dados:**
     Abra o arquivo de código e localize a função `create_connection()`. Altere os parâmetros `user`, `password` e `host` para corresponder às suas credenciais do MySQL.
