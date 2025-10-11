@@ -105,7 +105,3 @@ O sistema utiliza três tabelas para organizar os dados:
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tiver alguma ideia para melhorar o projeto, sinta-se à vontade para criar um *fork* do repositório e enviar um *Pull Request*.
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
