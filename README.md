@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas com Tkinter e MySQL
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 
 Um projeto simples de um sistema de gerenciamento de tarefas desenvolvido em Python, utilizando a biblioteca `Tkinter` para a interface gráfica e `MySQL` como banco de dados. A aplicação permite o cadastro de usuários, criação de tarefas, associação de tarefas a usuários e o acompanhamento do status de cada tarefa (pendente ou concluída).
 
